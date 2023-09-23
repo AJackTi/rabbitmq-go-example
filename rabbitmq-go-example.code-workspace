@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "consumer"
+	},
+	{
+		"path": "producer"
+	},
+	{
+		"path": "rabbit-mq"
+	}
+]
+}
