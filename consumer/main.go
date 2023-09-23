@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/lakhinsu/rabbitmq-go-example/consumer/consts"
-	"github.com/lakhinsu/rabbitmq-go-example/consumer/handlers"
-	"github.com/lakhinsu/rabbitmq-go-example/consumer/utils"
+	"github.com/AJackTi/rabbitmq-go-example/consumer/consts"
+	"github.com/AJackTi/rabbitmq-go-example/consumer/handlers"
+	"github.com/AJackTi/rabbitmq-go-example/consumer/utils"
 )
 
 func main() {

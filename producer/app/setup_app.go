@@ -1,9 +1,9 @@
 package app
 
 import (
+	"github.com/AJackTi/rabbitmq-go-example/producer/middlewares"
+	"github.com/AJackTi/rabbitmq-go-example/producer/routers"
 	"github.com/gin-gonic/gin"
-	"github.com/lakhinsu/rabbitmq-go-example/producer/middlewares"
-	"github.com/lakhinsu/rabbitmq-go-example/producer/routers"
 	"github.com/rs/zerolog/log"
 )
 

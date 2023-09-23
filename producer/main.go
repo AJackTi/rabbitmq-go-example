@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 
+	"github.com/AJackTi/rabbitmq-go-example/producer/app"
+	"github.com/AJackTi/rabbitmq-go-example/producer/utils"
 	"github.com/gin-gonic/gin"
-	"github.com/lakhinsu/rabbitmq-go-example/producer/app"
-	"github.com/lakhinsu/rabbitmq-go-example/producer/utils"
 	"github.com/rs/zerolog/log"
 )
 

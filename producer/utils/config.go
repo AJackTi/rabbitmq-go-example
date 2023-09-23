@@ -1,7 +1,7 @@
 package utils
 
 import (
-	"github.com/lakhinsu/rabbitmq-go-example/producer/consts"
+	"github.com/AJackTi/rabbitmq-go-example/producer/consts"
 	"github.com/rs/zerolog/log"
 	"github.com/spf13/viper"
 )

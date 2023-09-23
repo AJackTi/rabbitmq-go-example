@@ -3,10 +3,10 @@ package controllers
 import (
 	"net/http"
 
+	"github.com/AJackTi/rabbitmq-go-example/producer/consts"
+	"github.com/AJackTi/rabbitmq-go-example/producer/models"
+	"github.com/AJackTi/rabbitmq-go-example/producer/utils"
 	"github.com/gin-gonic/gin"
-	"github.com/lakhinsu/rabbitmq-go-example/producer/consts"
-	"github.com/lakhinsu/rabbitmq-go-example/producer/models"
-	"github.com/lakhinsu/rabbitmq-go-example/producer/utils"
 	"github.com/rs/zerolog/log"
 )
 

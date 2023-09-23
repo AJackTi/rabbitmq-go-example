@@ -1,8 +1,8 @@
 package routers
 
 import (
+	"github.com/AJackTi/rabbitmq-go-example/producer/controllers"
 	"github.com/gin-gonic/gin"
-	"github.com/lakhinsu/rabbitmq-go-example/producer/controllers"
 )
 
 // Function to setup routers and router groups
