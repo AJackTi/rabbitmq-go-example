@@ -15,3 +15,5 @@
 # vendor/
 
 .idea
+/consumer/.env
+/producer/.env
