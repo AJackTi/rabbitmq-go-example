@@ -1,8 +1,8 @@
 package handlers
 
 import (
+	amqp "github.com/rabbitmq/amqp091-go"
 	"github.com/rs/zerolog/log"
-	"github.com/streadway/amqp"
 )
 
 func HandleExample(queue string, msg amqp.Delivery, err error) {

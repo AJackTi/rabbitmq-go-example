@@ -1,8 +1,8 @@
 package utils
 
 import (
+	amqp "github.com/rabbitmq/amqp091-go"
 	"github.com/rs/zerolog/log"
-	"github.com/streadway/amqp"
 )
 
 type RMQConsumer struct {
